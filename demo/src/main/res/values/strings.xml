@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="sobot_app_name">智齿sdk Demo</string>
+    <string name="sobot_btn_start">启动</string>
+    <string name="sobot_please">SOBOT SDK  1.7.0</string>
+    <string name="sobot_value"></string>
+</resources>
